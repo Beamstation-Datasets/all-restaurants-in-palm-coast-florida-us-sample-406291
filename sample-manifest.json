@@ -1,0 +1,12 @@
+{
+  "export_job_id": "e3b0b5b7-94be-4914-b1e3-aa69157fbaee",
+  "id_short": 406291,
+  "published_at": "2026-04-12T07:30:44Z",
+  "repo_name": "all-restaurants-in-palm-coast-florida-us-sample-406291",
+  "sample_asset_name": "beamstation_406291_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/406291/beamstation_406291_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_records": 9,
+  "sample_sha256": "91ec7451c74d96cd059a2f4ae7497600609400ead5d314e5cb3d3bf4bc29c893",
+  "sample_size_bytes": 42049,
+  "total_records": 97
+}
