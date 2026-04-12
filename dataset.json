@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining market data for Palm Coast, Florida. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Palm Coast, Florida, US",
+  "export_job_id": "e3b0b5b7-94be-4914-b1e3-aa69157fbaee",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 406291,
+  "location_name": "Palm Coast",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-palm-coast-florida-us-sample-406291",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/406291/beamstation_406291_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_pct": 9.28,
+  "sample_records": 9,
+  "sample_sha256": "91ec7451c74d96cd059a2f4ae7497600609400ead5d314e5cb3d3bf4bc29c893",
+  "sample_size_bytes": 42049,
+  "total_records": 97,
+  "updated_at": "2026-04-07T11:37:04.390791+00:00"
+}
