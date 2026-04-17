@@ -1,6 +1,6 @@
 # All Restaurants in Palm Coast, Florida, US
 
-> Free BeamStation sample export with 9 rows and masked direct-contact fields.
+> Free BeamStation sample export with 11 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `406291` |
 | Location | Palm Coast |
 | Category | Restaurants |
-| Full dataset size | 97 records |
-| Free sample size | 9 records (9.28%) |
-| Last export | 2026-04-07T11:37:04.390791+00:00 |
+| Full dataset size | 119 records |
+| Free sample size | 11 records (9.24%) |
+| Last export | 2026-04-14T11:32:15.203759+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-palm-coast-florida-us-sample-406291/releases/download/sample-latest/beamstation_406291_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
